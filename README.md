@@ -9,4 +9,5 @@ Rejects uploads of `.zip` and `.jar` with an S3 policy error.
 
 ## Reproduction
 
-Clone this repo and run it, then upload a .jar file (i used [this one](https://i.upload.systems/9p8bxURu))
+Clone this repo and run it.
+Head over to `/test`, then upload a .jar file (i used [this one](https://i.upload.systems/9p8bxURu))
